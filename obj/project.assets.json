@@ -522,11 +522,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Flori\\Desktop\\Cucu\\ADA\\FTU\\Deportes\\Deportes.csproj",
+      "projectUniqueName": "C:\\Users\\Flori\\Desktop\\Cucu\\ADA\\UT5_TFU\\Deportes.csproj",
       "projectName": "Deportes",
-      "projectPath": "C:\\Users\\Flori\\Desktop\\Cucu\\ADA\\FTU\\Deportes\\Deportes.csproj",
+      "projectPath": "C:\\Users\\Flori\\Desktop\\Cucu\\ADA\\UT5_TFU\\Deportes.csproj",
       "packagesPath": "C:\\Users\\Flori\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Flori\\Desktop\\Cucu\\ADA\\FTU\\Deportes\\obj\\",
+      "outputPath": "C:\\Users\\Flori\\Desktop\\Cucu\\ADA\\UT5_TFU\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Flori\\AppData\\Roaming\\NuGet\\NuGet.Config",
